@@ -25,7 +25,7 @@ navvar ul{
 	list-style:none;
 }
 #navbar li{
-	diplay:inline;
+	display:inline;
 }
 #navbar a{
 	color:#fff;
